@@ -61,7 +61,7 @@ Applications with support of IPTV streams.
 - [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more.
 - [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
 - [Jellyfin](https://demo.jellyfin.org/) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
-
+- [AirwaveTV](https://mrpentestrz.github.io/airwavetv/) - Zero-install browser-based IPTV player with 19,000+ channels auto-loaded, favorites, auto-skip, and PiP.
 #### Windows
 
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Free and open-source portable cross-platform media player.
